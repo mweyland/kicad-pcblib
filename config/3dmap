@@ -917,6 +917,10 @@ mod: SOIC127P600X175-14
 3dmod: smd_dil/so-14.wrl
 rotz: 90
 
+mod: SOIC127P600X180-16
+3dmod: smd_dil/so-16.wrl
+rotz: 90
+
 mod: SOP65P490X110-8
 3dmod: smd_dil/msoic-8.wrl
 rotz: 90
